@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blabla.md",
+                "file": "blabla 1.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a68ce249c4e6e082",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blabla.md",
+                "file": "blabla 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blabla.md",
+                "file": "blabla 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blabla.md"
+                "file": "blabla 1.md"
               }
             }
           }
@@ -157,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68ce249c4e6e082",
+  "active": "348346328cd458d8",
   "lastOpenFiles": [
-    "README.md",
     "blabla.md",
+    "blabla 1.md",
+    "README.md",
     "readme.md"
   ]
 }
