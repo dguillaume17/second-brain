@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:rxjs/concat-map",
+                "query": "#rxjs/switch-map :rxjs/switch-map ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
