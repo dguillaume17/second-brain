@@ -1,0 +1,20 @@
+{
+  "resultsCount": 6,
+  "khojUrl": "https://app.khoj.dev",
+  "khojApiKey": "kk-ppRpHMdrRqB7-Ap60h3yafZA-pyBpRiPd5E8AWNAK8g",
+  "connectedToBackend": true,
+  "autoConfigure": true,
+  "lastSync": {},
+  "syncFileType": {
+    "markdown": true,
+    "images": false,
+    "pdf": false
+  },
+  "userInfo": {
+    "email": "guillaume.d17@gmail.com",
+    "username": "guillaume.d17@gmail.com",
+    "photo": null,
+    "is_active": false,
+    "has_documents": false
+  }
+}
