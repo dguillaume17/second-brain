@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21fa3229fbfbdb20",
+        "id": "c14af8f5b1e8b12c",
         "type": "tabs",
         "children": [
           {
-            "id": "298516630421812b",
+            "id": "b253464ad903881b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,8 +169,9 @@
       "khoj:Khoj": false
     }
   },
-  "active": "298516630421812b",
+  "active": "b253464ad903881b",
   "lastOpenFiles": [
+    "Commandes linux.md",
     "Untitled 4.md",
     "2024-11-15.md",
     "Untitled 3.md",
