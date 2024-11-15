@@ -1,8 +1,11 @@
 
+```typescript
+@Injectable()
+public class MyManager1()
+```
 
-export class MyManager {
-constructor() {
 
-}
-
-}
+```typescript
+@Injectable({providedIn:'root'})
+public class MyManager2()
+```
