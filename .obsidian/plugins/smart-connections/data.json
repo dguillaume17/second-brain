@@ -9,13 +9,16 @@
   "system_prompts_folder": "smart prompts",
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
-  "chat_model_platform_key": "open_router",
+  "chat_model_platform_key": "custom_local",
   "open_router": {},
   "api_key": "",
   "excluded_headings": "",
   "folder_exclusions": "smart-chats",
   "show_full_path": false,
   "expanded_view": true,
-  "language": "en",
-  "version": "2.2.85"
+  "language": "fr",
+  "version": "2.2.85",
+  "custom_local": {
+    "model_name": ""
+  }
 }
