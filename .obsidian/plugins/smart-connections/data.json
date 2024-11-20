@@ -19,6 +19,12 @@
   "language": "fr",
   "version": "2.2.85",
   "custom_local": {
-    "model_name": ""
+    "model_name": "llama3",
+    "description": "Custom Local (OpenAI format)",
+    "type": "API",
+    "protocol": "http",
+    "hostname": "localhost",
+    "port": 11434,
+    "streaming": true
   }
 }
