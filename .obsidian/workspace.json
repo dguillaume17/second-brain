@@ -11,10 +11,14 @@
             "id": "b253464ad903881b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Commandes linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Commandes linux"
             }
           }
         ]
@@ -169,7 +173,7 @@
       "khoj:Khoj": false
     }
   },
-  "active": "b253464ad903881b",
+  "active": "4056f61bb2c872bf",
   "lastOpenFiles": [
     "Commandes linux.md",
     "Untitled 4.md",
