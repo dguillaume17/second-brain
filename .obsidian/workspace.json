@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c14af8f5b1e8b12c",
+        "id": "f4f988df89d55907",
         "type": "tabs",
         "children": [
           {
-            "id": "b253464ad903881b",
+            "id": "f353b2ea971bfe87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commandes linux.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commandes linux"
+              "title": "Untitled 4"
             }
           },
           {
-            "id": "7d23d9ffc2b1acf3",
+            "id": "43e78f2ae0931069",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Lire.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Lire"
             }
           }
         ],
@@ -167,9 +169,39 @@
               "icon": "message-circle",
               "title": "Khoj Chat"
             }
+          },
+          {
+            "id": "edcb693deda5ae81",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "0dca54accca4493a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
+          },
+          {
+            "id": "9857a8da75209c66",
+            "type": "leaf",
+            "state": {
+              "type": "smart-search-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Search"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,21 +215,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7d23d9ffc2b1acf3",
+  "active": "0dca54accca4493a",
   "lastOpenFiles": [
-    "Commandes linux.md",
-    "Untitled 4.md",
     "2024-11-15.md",
-    "Untitled 3.md",
+    "Lire.md",
+    "Untitled 4.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled",
     "Untitled.md",
+    "Commandes linux.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
+    "smart-chats",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled",
     "README.md",
     "blabla 1.md",
     "blabla.md",
