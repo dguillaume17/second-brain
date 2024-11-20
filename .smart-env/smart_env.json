@@ -5,7 +5,7 @@
   },
   "smart_sources": {
     "embed_model": {
-      "model_key": "TaylorAI/bge-micro-v2",
+      "model_key": "text-embedding-3-large-256",
       "legacy_transformers": true
     },
     "smart_change": {
