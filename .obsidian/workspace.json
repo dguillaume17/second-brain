@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Commandes linux"
             }
+          },
+          {
+            "id": "7d23d9ffc2b1acf3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "khoj:Khoj": false
     }
   },
-  "active": "4056f61bb2c872bf",
+  "active": "7d23d9ffc2b1acf3",
   "lastOpenFiles": [
     "Commandes linux.md",
     "Untitled 4.md",
