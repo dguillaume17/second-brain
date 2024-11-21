@@ -25,14 +25,17 @@
             "id": "43e78f2ae0931069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Commandes linux.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Commandes linux"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -230,12 +233,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0dca54accca4493a",
+  "active": "43e78f2ae0931069",
   "lastOpenFiles": [
+    "Commandes linux.md",
+    "Untitled.canvas",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 31 48.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 30 24.md",
     "Lire.md",
-    "Commandes linux.md",
     "RxJS switch map.md",
     "Service angular.md",
     "smart-chats",
@@ -244,7 +248,6 @@
     "Untitled 2.md",
     "2024-11-15.md",
     "smart-chats/UNTITLED CHAT 2024-11-20 16 50 53.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled",
     "README.md",
