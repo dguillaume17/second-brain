@@ -1,5 +1,7 @@
 
 ```typescript
+import { Injectable } from '@angular/core';
+
 @Injectable()
 public class MyManager1()
 ```

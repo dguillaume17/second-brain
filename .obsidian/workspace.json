@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -230,8 +230,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "43e78f2ae0931069",
+  "active": "4056f61bb2c872bf",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-11-21 07 41 41.md",
     "Svelte.md",
     "Service angular.md",
     "Untitled.canvas",
