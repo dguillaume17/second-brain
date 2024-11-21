@@ -25,17 +25,14 @@
             "id": "43e78f2ae0931069",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Service angular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Service angular"
             }
           }
         ],
@@ -235,16 +232,16 @@
   },
   "active": "43e78f2ae0931069",
   "lastOpenFiles": [
-    "Commandes linux.md",
+    "Svelte.md",
+    "Service angular.md",
     "Untitled.canvas",
+    "Commandes linux.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 31 48.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 30 24.md",
     "Lire.md",
     "RxJS switch map.md",
-    "Service angular.md",
     "smart-chats",
     "RxJS.md",
-    "Svelte.md",
     "Untitled 2.md",
     "2024-11-15.md",
     "smart-chats/UNTITLED CHAT 2024-11-20 16 50 53.md",
