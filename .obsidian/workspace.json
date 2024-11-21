@@ -176,8 +176,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
             }
           },
           {
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -230,8 +230,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "43e78f2ae0931069",
+  "active": "0dca54accca4493a",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-11-21 07 30 24.md",
     "Lire.md",
     "Commandes linux.md",
     "RxJS switch map.md",

@@ -5,11 +5,16 @@
   "actions": {
     "lookup": true
   },
-  "smart_notices": {},
+  "smart_notices": {
+    "muted": {
+      "api_key_test_pass": true,
+      "Notice_muted": true
+    }
+  },
   "system_prompts_folder": "smart prompts",
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
-  "chat_model_platform_key": "openai",
+  "chat_model_platform_key": "google_gemini",
   "open_router": {},
   "api_key": "",
   "excluded_headings": "",
@@ -26,5 +31,8 @@
     "hostname": "localhost",
     "port": 11434,
     "streaming": true
+  },
+  "google_gemini": {
+    "api_key": "1063676255841"
   }
 }
