@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5fdf34e56a1839",
+        "id": "142e1b4ff9928928",
         "type": "tabs",
         "children": [
           {
-            "id": "91b0d55394dfae91",
+            "id": "174288adf30deeee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RxJS.md",
+                "file": "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RxJS"
-            }
-          },
-          {
-            "id": "2e7b7a722b2d9afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeComponent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HomeComponent"
+              "title": "UNTITLED CHAT 2024-11-21 08 59 44"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +160,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -185,8 +170,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
             }
           },
           {
@@ -229,18 +214,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4056f61bb2c872bf",
+  "active": "622137c5f98a5ee4",
   "lastOpenFiles": [
-    "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
-    "Service angular.md",
     "HomeComponent.md",
+    "Commandes linux.md",
+    "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
+    "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
+    "Service angular.md",
     "RxJS switch map.md",
     "RxJS.md",
     "Svelte.md",
     "Nouvelle note.md",
     "Lire.md",
-    "Commandes linux.md",
-    "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
     "smart-chats",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 47 49.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 46 55.md",
