@@ -185,8 +185,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,7 +229,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0dca54accca4493a",
+  "active": "4056f61bb2c872bf",
   "lastOpenFiles": [
     "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "Service angular.md",
