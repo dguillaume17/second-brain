@@ -190,12 +190,12 @@
             "state": {
               "type": "smart-search-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "search",
+              "title": "Smart Search"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4056f61bb2c872bf",
+  "active": "43f029142c28c4f9",
   "lastOpenFiles": [
     "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "HomeComponent.md",
