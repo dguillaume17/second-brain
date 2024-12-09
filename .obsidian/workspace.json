@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
+                "file": "HomeComponent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNTITLED CHAT 2024-11-21 08 59 44"
+              "title": "HomeComponent"
             }
           }
         ]
@@ -160,8 +160,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -170,8 +170,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -214,11 +214,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "622137c5f98a5ee4",
+  "active": "4056f61bb2c872bf",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "HomeComponent.md",
     "Commandes linux.md",
-    "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
     "Service angular.md",
     "RxJS switch map.md",
