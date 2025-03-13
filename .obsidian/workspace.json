@@ -76,21 +76,9 @@
               "icon": "lucide-file",
               "title": "Test 1"
             }
-          },
-          {
-            "id": "0a93ae343de7a0f0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,7 +233,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a93ae343de7a0f0",
+  "active": "0ee88bb48bfff624",
   "lastOpenFiles": [
     "RxJS.md",
     "RxJS switch map.md",
