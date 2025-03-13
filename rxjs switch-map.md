@@ -1,0 +1,4 @@
+---
+aliases:
+  - "#rxjs/switch-map"
+---

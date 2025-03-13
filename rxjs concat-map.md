@@ -1,0 +1,3 @@
+---
+Aliases: [ "#rxjs/concat-map" ]
+---
