@@ -1,3 +1,3 @@
-#typescript
+#code/typescript
 #array
 #split
