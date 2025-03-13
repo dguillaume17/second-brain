@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 1.md",
+                "file": "Test 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1"
+              "title": "Test 2"
             }
           },
           {
@@ -82,27 +82,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "81f2f818b85b7937",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -114,9 +98,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "91d5e76ff6b0dbeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#code/typescript  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,14 +216,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "81f2f818b85b7937",
+  "floating": {
+    "id": "4240e64728332b8f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "903ccb8c68112a2c",
+        "type": "window",
+        "children": [
+          {
+            "id": "13ac901933a62b2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3804c1728f5c8bd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 210,
+        "y": 396,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d3804c1728f5c8bd",
   "lastOpenFiles": [
-    "RxJS.md",
     "Test 1.md",
     "Test 2.md",
+    "RxJS.md",
     "RxJS switch map.md",
     "HomeComponent.md",
     "split.md",
