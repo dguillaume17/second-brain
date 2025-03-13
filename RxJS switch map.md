@@ -5,7 +5,7 @@ tags:
 ---
 
 
-```typescript
+```[[RxJS]]typescript
 import { Subject, of } from 'rxjs';
 import { delay, mergeMap, tap } from 'rxjs/operators';
 
