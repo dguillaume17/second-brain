@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#code/typescript  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,51 +220,7 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "floating": {
-    "id": "4240e64728332b8f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "903ccb8c68112a2c",
-        "type": "window",
-        "children": [
-          {
-            "id": "13ac901933a62b2f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d3804c1728f5c8bd",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 210,
-        "y": 396,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d3804c1728f5c8bd",
+  "active": "91d5e76ff6b0dbeb",
   "lastOpenFiles": [
     "Test 1.md",
     "Test 2.md",
