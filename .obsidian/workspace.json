@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HomeComponent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HomeComponent"
             }
           },
           {
@@ -143,9 +144,19 @@
               "icon": "lucide-list",
               "title": "Outline of HomeComponent"
             }
+          },
+          {
+            "id": "3a053a754f96e966",
+            "type": "leaf",
+            "state": {
+              "type": "llm-note-context-view",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "Note context"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58bce26c26beca07",
+  "active": "174288adf30deeee",
   "lastOpenFiles": [
     "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "HomeComponent.md",

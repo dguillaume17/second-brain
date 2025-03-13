@@ -1,3 +1,6 @@
+---
+category: LLM workspace
+---
 
 ```typescript
 import { Component } from '@angular/core';  
