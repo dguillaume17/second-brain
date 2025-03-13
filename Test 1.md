@@ -1,4 +1,7 @@
 ---
-alias: Typescript / Array / Split
+aliases:
+  - "#code"
+tags:
+  - code/typescript
 ---
 #code/typescript 
