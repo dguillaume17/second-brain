@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Test 1"
             }
+          },
+          {
+            "id": "0a93ae343de7a0f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#code/typescript tag:#code/typescript",
+                "query": "tag:#array tag:#array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +197,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -231,8 +245,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81f2f818b85b7937",
+  "active": "0a93ae343de7a0f0",
   "lastOpenFiles": [
+    "RxJS.md",
     "RxJS switch map.md",
     "Test 2.md",
     "Test 1.md",
@@ -242,7 +257,6 @@
     "Commandes linux.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
     "Service angular.md",
-    "RxJS.md",
     "Svelte.md",
     "Nouvelle note.md",
     "Lire.md",
