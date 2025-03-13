@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "tag:#array",
+    "query": "tag:rxjs/switch-map",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

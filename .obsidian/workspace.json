@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RxJS.md",
+                "file": "HomeComponent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RxJS"
+              "title": "HomeComponent"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +179,9 @@
   },
   "active": "0c229e38f854d543",
   "lastOpenFiles": [
-    "rxjs concat-map.md",
+    "Nouvelle note.md",
     "RxJS.md",
+    "rxjs concat-map.md",
     "rxjs switch-map.md",
     "RxJS switch map.md",
     "Test 1.md",
@@ -194,7 +194,6 @@
     "Commandes linux.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
     "Service angular.md",
-    "Nouvelle note.md",
     "Lire.md",
     "smart-chats",
     "smart-chats/UNTITLED CHAT 2024-11-21 07 47 49.md",
