@@ -2,6 +2,9 @@
 tags:
   - "#rxjs/switch-map"
   - "#rxjs/concat-map"
+aliases:
+  - Analyse de l'ordre d'exécution avec mergeMap et concatMap en RxJS
+  - Comparaison des opérateurs RxJS mergeMap et concatMap"
 ---
 
 
