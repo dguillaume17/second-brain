@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeComponent.md",
+                "file": "Commandes linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomeComponent"
+              "title": "Commandes linux"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "0c229e38f854d543",
   "lastOpenFiles": [
+    "HomeComponent.md",
     "Nouvelle note.md",
     "RxJS.md",
     "rxjs concat-map.md",
@@ -189,7 +190,6 @@
     "split.md",
     "Svelte.md",
     "Test 2.md",
-    "HomeComponent.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 08 59 44.md",
     "Commandes linux.md",
     "smart-chats/UNTITLED CHAT 2024-11-21 08 45 41.md",
