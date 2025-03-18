@@ -6,7 +6,7 @@
   "ignoreDiacritics": true,
   "ignoreArabicDiacritics": false,
   "indexedFileTypes": [],
-  "displayTitle": "",
+  "displayTitle": "aliases",
   "PDFIndexing": false,
   "officeIndexing": false,
   "imagesIndexing": false,
@@ -24,14 +24,19 @@
   "showPreviousQueryResults": true,
   "simpleSearch": false,
   "tokenizeUrls": false,
-  "fuzziness": "1",
+  "fuzziness": "2",
   "weightBasename": 10,
   "weightDirectory": 7,
   "weightH1": 6,
   "weightH2": 5,
   "weightH3": 4,
   "weightUnmarkedTags": 2,
-  "weightCustomProperties": [],
+  "weightCustomProperties": [
+    {
+      "name": "tags",
+      "weight": 5
+    }
+  ],
   "httpApiEnabled": false,
   "httpApiPort": "51361",
   "httpApiNotice": true,
