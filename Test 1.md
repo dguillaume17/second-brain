@@ -4,4 +4,4 @@ aliases:
 tags:
   - code/typescript
 ---
-#code/typescript 
+#code/typescript #array 

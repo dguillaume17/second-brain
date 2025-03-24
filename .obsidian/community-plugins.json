@@ -3,5 +3,6 @@
   "llm-workspace",
   "tag-wrangler",
   "omnisearch",
-  "float-search"
+  "float-search",
+  "dataview"
 ]
