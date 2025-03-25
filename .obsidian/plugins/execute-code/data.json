@@ -11,7 +11,7 @@
   "nodeArgs": "",
   "jsFileExtension": "js",
   "jsInject": "",
-  "tsPath": "ts-node",
+  "tsPath": "type",
   "tsArgs": "",
   "tsInject": "",
   "latexCompilerPath": "lualatex",
