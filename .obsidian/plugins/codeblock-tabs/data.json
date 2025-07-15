@@ -1,7 +1,7 @@
 {
   "extraLang": {
     "dataview": true,
-    "dataviewjs": true
+    "dataviewjs": false
   },
   "defaultTitle": "(x)"
 }

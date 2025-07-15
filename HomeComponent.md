@@ -2,7 +2,7 @@
 category: LLM workspace
 ---
 
-```TypesScript
+```typescript
 import { Component } from '@angular/core';  
 import { LanguageManagerService } from '../../services/language/language-manager.service';  
 import { ApplicationReloaderService } from '../../services/application/application-reloader.service';  
